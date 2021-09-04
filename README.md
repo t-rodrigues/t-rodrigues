@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando Spring com foco em Dev. Java Back-end
+
 <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=t-rodrigues&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-rodrigues&layout=compact&langs_count=7&theme=omni"/>
@@ -25,6 +28,9 @@
 
   <img align="center" alt="linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
+
+<br>
+<br>
 
 <div style="margin-top: 40px;">
   <p align="center">
