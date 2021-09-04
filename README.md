@@ -3,13 +3,13 @@
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Spring com foco em Dev. Java Back-end
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 50px;">
+<div style="display: inline-block;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=t-rodrigues&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-rodrigues&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 ### Techs
-<div style="display: flex; justify-content: space-around; align-items: center; max-width: 800px;">
+<div style="display: inline-block;">
   <img align="center" alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   
   <img align="center" alt="spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -32,7 +32,7 @@
 <br>
 <br>
 
-<div style="margin-top: 40px;">
+<div>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=t-rodrigues&color=blueviolet&style=flat-square">
   </p>
