@@ -26,6 +26,6 @@
   <img align="center" alt="linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-<div>
+<div style="text-align: center; margin-top: 40px;">
   <img src="https://komarev.com/ghpvc/?username=t-rodrigues&color=blueviolet&style=flat-square">
 </div>
