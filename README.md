@@ -48,6 +48,9 @@
     </a>
 </p>
 
+<br>
+<br>
+
 <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=t-rodrigues&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=omni" alt="t-rodrigues" />
     &nbsp;
