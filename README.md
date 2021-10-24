@@ -45,7 +45,7 @@
 <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=t-rodrigues&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=omni" alt="t-rodrigues" />
     &nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-rodrigues&show_icons=true&locale=en&layout=compact&theme=omni" alt="t-rodrigues" />
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-rodrigues&show_icons=true&locale=en&layout=compact&theme=omni" alt="t-rodrigues" /> -->
 </p>
 
 <br>
