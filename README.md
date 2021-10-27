@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Java and Spring**
+- 🌱 I’m currently learning **Java** and **Spring**
 
 - 📫 How to reach me **thiagor_@live.com**
 
