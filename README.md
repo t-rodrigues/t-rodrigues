@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**/**Kotlin** and **Spring**
 
-- 📫 How to reach me **<a href="mailto:oi@thiagorodrigues.dev">oi@thiagorodrigues.dev</a>**
+- 📫 How to reach me **<a href="mailto:hey@thiagorodrigues.dev">hey@thiagorodrigues.dev</a>**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
