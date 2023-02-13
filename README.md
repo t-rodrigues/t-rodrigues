@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Java**/**Kotlin** and **Spring**
+<!-- - 🌱 I’m currently learning **Java**/**Kotlin** and **Spring** -->
+- 🌱 I’m currently learning **Pascal**/**Delphi**
 
 - 📫 How to reach me **<a href="mailto:hey@thiagorodrigues.dev">hey@thiagorodrigues.dev</a>**
 
